@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Publish confirm
+Plugin Name: Publish Confirm
 Description: Zusatzabfrage in WordPress beim Klick auf den Button "Veröffentlichen"
 Author: Sergej M&uuml;ller
 Author URI: http://wpcoder.de
-Plugin URI:
+Plugin URI: https://github.com/sergejmueller/Publish-Confirm
 License: GPLv2 or later
 Version: 0.0.1
 */
