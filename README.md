@@ -6,9 +6,7 @@ Zu oft WordPress-Artikel versehentlich publiziert statt sie als Entwurf zu speic
 Sobald ein Artikel veröffentlicht wurde, wird für diesen Artikel keine Zwischenabfrage (mehr) geschaltet.
 
 <p align="center">
-    <a href="https://raw.githubusercontent.com/sergejmueller/Publish-Confirm/master/img/screenshot.png">
-        <img width="774" height="488" alt="Publish Confirm" src="https://raw.githubusercontent.com/sergejmueller/Publish-Confirm/master/img/screenshot.png" />
-    </a>
+    <img width="387" height="244" alt="Publish Confirm" src="https://raw.githubusercontent.com/sergejmueller/Publish-Confirm/master/img/screenshot.png" />
 </p>
 
 
